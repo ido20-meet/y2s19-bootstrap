@@ -1,0 +1,17 @@
+.font {
+	font-family: comic sans MS;
+	color:#C170B6;
+	font-size: 60px;
+}
+body {
+	background-color:#70C18E;
+}
+table, tr, th, td {
+  border: 5px solid #A6ABF4;
+}
+.col-sm {
+	font-family: comic sans MS;
+	font-size: 60px;
+	color:#AF0040;
+	border: 5px solid black
+}
